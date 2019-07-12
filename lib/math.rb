@@ -10,7 +10,8 @@ def (division)=(num1)/(num2)=(quotient of (num1),(num2)
 do 15/5=
 end
 
-def (multiplication)(num1)*(num2)
+def (multiplication)(num1)*(num2))=(sum of (num1),(num2))
+  do 12*3=
 
 end
 
