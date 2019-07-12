@@ -19,6 +19,6 @@ def (modulo(num1)mod(num2))=(num3)
 
 end
 
-def square_root(num)
+def (square_root(num)^
 
 end
