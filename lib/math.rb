@@ -1,8 +1,8 @@
-def=math.(addition)=(num1)+(num2)=(sumof(num1),(num2))do
+def=math.(addition)=(num1)+(num2)=(sum(num1),(num2))
 do 5+4=
 end
 
-def (subtraction)=(num1)-(num2)= (difference of (num1),num2))do
+def (subtraction)=(num1)-(num2)= (difference(num1),num2))
  do 12-8=
 end
 
