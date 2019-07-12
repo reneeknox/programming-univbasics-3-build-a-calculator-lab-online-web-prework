@@ -1,4 +1,4 @@
-def=(addition)=(num1)+(num2)=(sumof(num1),(num2))do
+def=math.(addition)=(num1)+(num2)=(sumof(num1),(num2))do
 do 5+4=
 end
 
