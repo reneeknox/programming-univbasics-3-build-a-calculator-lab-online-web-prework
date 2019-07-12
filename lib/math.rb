@@ -6,16 +6,16 @@ def (subtraction)=(num1)-(num2)= (difference(num1),num2))
  do 12-8=
 end
 
-def (division)=(num1)/(num2)=(quotient of (num1),(num2)
+def (division)=(num1)/(num2)=(quotient(num1),(num2)
 do 15/5=
 end
 
-def (multiplication)(num1)*(num2))=(sum of (num1),(num2))
+def (multiplication)(num1)*(num2))=(sum(num1),(num2))
   do 12*3=
 
 end
 
-def modulo(num1, num2)
+def (modulo(num1)mod(num2))=(num3)
 
 end
 
